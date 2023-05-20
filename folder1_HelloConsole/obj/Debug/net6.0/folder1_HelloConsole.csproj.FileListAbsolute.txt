@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\bin\Debug\net6.0\folder1_HelloConsole.exe
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\bin\Debug\net6.0\folder1_HelloConsole.deps.json
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\bin\Debug\net6.0\folder1_HelloConsole.runtimeconfig.json
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\bin\Debug\net6.0\folder1_HelloConsole.dll
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\bin\Debug\net6.0\folder1_HelloConsole.pdb
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.dll
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\refint\folder1_HelloConsole.dll
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.pdb
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\folder1_HelloConsole.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\lesson\folder1_HelloConsole\obj\Debug\net6.0\ref\folder1_HelloConsole.dll
